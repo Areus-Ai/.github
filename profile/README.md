@@ -12,11 +12,11 @@
 
 - 👩🏻‍💻 Working with Richie a software engineer at **[Areus.Ai](https://areusai.com)**
 
-
+<br>
 <p>How to find running instances</p>
 <p>`lsof -nP -I | grep LISTEN`</p>
 <p>- <i>can replace `LISTEN` with your port number</i></p>
-
+<br><br>
 
 
 <details>
