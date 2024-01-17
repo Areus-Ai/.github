@@ -8,3 +8,9 @@
   </a>
 </p>
 <p>👩🏻‍💻 Working with Richie a software engineer at [Areus.Ai]</p>
+
+
+
+<p align="center">• <a href="https://areusai.com/">Main Areus.Ai</a></p>
+<p align="center">• <a href="https://dev.areusai.com/">Filthy Dev Areus.Ai</a></p>
+<p align="center">• <a href="https://development.areusai.com/">Richie Dev Areus.Ai</a></p>
